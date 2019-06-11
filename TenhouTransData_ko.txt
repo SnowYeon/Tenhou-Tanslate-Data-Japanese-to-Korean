@@ -769,6 +769,18 @@ Desktop 입력: Off
 観戦 |
 관전 |
 
+Trainingβ
+트레이닝[Beta]
+
+Trainingβ |
+트레이닝[Beta] |
+
+Tools
+기타
+
+Tools |
+기타 |
+
 ヘルプ
 도움말
 
